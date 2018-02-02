@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F385166A-E99C-67EB-3F7A-DF5BE9051AD2}") = "Dragons Wave", "Assembly-CSharp.csproj", "{A6FB92C9-0138-92E5-AD76-A1F9F68B7D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6FB92C9-0138-92E5-AD76-A1F9F68B7D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FB92C9-0138-92E5-AD76-A1F9F68B7D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FB92C9-0138-92E5-AD76-A1F9F68B7D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FB92C9-0138-92E5-AD76-A1F9F68B7D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
